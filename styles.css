@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    width: 500px;
+    height: 600px;
+}
+
+.post-header {
+    width: 500px;
+    display: flex;
+}
+
+.post-header h1{
+    position: absolute;
+    font-size: small;
+}
+
+.post-header h2{
+    position: relative;
+    padding: 20px;
+    font-size: x-small;
+}
